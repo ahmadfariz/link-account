@@ -16,6 +16,6 @@ Sorry i forgot about this
 
 ![Linktree3](https://user-images.githubusercontent.com/56096045/143330185-c9205a83-d422-4694-8198-e9c1c03ae73a.png)
 
-Sorry i forgot about this
+https://johnemerson1406.github.io/linktree
 
 ## 🙏🏽 Thanks to the person who made this
