@@ -1,0 +1,49 @@
+body {
+  padding: 25px;
+  background-color: white;
+  color: white;
+  font-size: 25px;
+}
+
+img {
+  border-radius: 15%;
+  width: 100px;
+}
+
+.name{
+  color: #343a40;
+}
+
+.love{
+  color: #343a40 !important;
+}
+
+#email{
+  text-decoration: none;
+  float: right;
+  color:#343a40;
+}
+
+.footer{
+margin-top: 5% !important;
+margin-bottom: 10px;
+}
+
+@media (max-width: 479px) {
+    .footer{
+    margin-top: 35% !important;
+  }
+}
+
+ /*per page*/
+
+#img1{
+  height: auto;
+  width: 200px;
+}
+
+.kalkulator {
+  margin-bottom: 10px;
+}
+
+  /*per page*/
